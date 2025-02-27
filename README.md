@@ -94,7 +94,7 @@ Ensure the following software is installed on your machine:
     Execute the database migrations to set up the required tables:
 
     ```bash
-    php artisan migrate --seed
+    php artisan migrate
 
     ```
 
